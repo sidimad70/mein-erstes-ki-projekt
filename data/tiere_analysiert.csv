@@ -1,0 +1,6 @@
+TierID,Gewicht,Alter,Gesund,Gewichtsklasse
+S01,82.5,3,True,schwer
+S02,76.2,2,True,normal
+S03,91.0,4,False,schwer
+S04,68.9,1,True,normal
+S05,88.4,5,False,schwer

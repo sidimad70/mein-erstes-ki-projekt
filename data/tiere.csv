@@ -1,0 +1,6 @@
+TierID,Gewicht,Alter,Gesund
+S01,82.5,3,True
+S02,76.2,2,True
+S03,91.0,4,False
+S04,68.9,1,True
+S05,88.4,5,False
